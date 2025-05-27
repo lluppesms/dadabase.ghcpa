@@ -1,6 +1,6 @@
 # Copilot Instructions
 
-The github repo is jamesmontemagno/feedbackflow and the primary branch that I work off of is main
+The github repo is lluppesms/dadabase.ghcpa and the primary branch that I work off of is main
 
 ## File Organization
 - Keep related files together
@@ -81,7 +81,7 @@ The github repo is jamesmontemagno/feedbackflow and the primary branch that I wo
 - Test error scenarios
 - Mock external dependencies
 - Use MSTest for component testing
-- Create tests in the feedbackflow.tests project
+- Create tests in the dadabase.tests project
 
 ## Documentation
 - Document public APIs
